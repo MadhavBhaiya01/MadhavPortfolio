@@ -826,6 +826,11 @@ form button:hover {
   line-height: 1.4;
 }
 
+.info-item a{
+  color: #eee;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
 
 
 
